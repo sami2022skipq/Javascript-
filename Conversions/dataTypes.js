@@ -12,3 +12,5 @@ convertedName = Number(name)
 console.log( (convertedName))
 convertedStatus = String(status)
 console.log(  typeof(convertedStatus), (convertedStatus)) 
+
+
